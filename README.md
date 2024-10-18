@@ -4,7 +4,8 @@ We will publish official code as soon as possible after the future work.
 [Arxiv](https://arxiv.org/pdf/2404.10633)
 [CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Sung_Contextrast_Contextual_Contrastive_Learning_for_Semantic_Segmentation_CVPR_2024_paper.html)
 
-
+# Introduction
+Contextrast is a supervised contrastive learning framework that can be applied to any semantic segmentation baseline model. In addition, it can be applied to RGB-D semantic segmentation model.
 
 ## Citation
 
